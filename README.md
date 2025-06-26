@@ -31,7 +31,7 @@
 
   Question2.py – Palindrome Checker
 
-  This script checks if a given string is a palindrome (a word that reads the same forwards and backwards).
+  This script checks if a given string is a palindrome a word that reads the same forwards and backwards.
 
  ✅ How to Use
 
@@ -71,6 +71,7 @@
 
 
  📌 Purpose
+ 
   This assignment will help Big Data Group 4 to develop and practice basic Python skills.
 
  📄 Activities Summary
