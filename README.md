@@ -63,14 +63,23 @@
  
   Python
 
- ⚙️ Project Setup
+ ⚙️ Project Setup:
     ```bash
-     python .\Question1.py
+      
+      https://github.com/leopoldbonfils/BigData-Group4.git
+
 
 
  📌 Purpose
   This assignment will help Big Data Group 4 to develop and practice basic Python skills.
 
+ 📄 Activities Summary
+ 
+   Learned how to write Python scripts that use user input and logic.
+    
+   Built two working Python files: one for age calculation and one for palindrome checking.
+    
+   Practiced using Git, GitHub, README formatting, and collaboration in a team.
    
 
 Python
