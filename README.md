@@ -29,7 +29,7 @@
  
   ![Question1](https://github.com/user-attachments/assets/9adecb13-606a-4aeb-9ac4-0889153af321)
 
-  Question2.py – Palindrome Checker
+  🧮 Question2.py – Palindrome Checker
 
   This script checks if a given string is a palindrome a word that reads the same forwards and backwards.
 
