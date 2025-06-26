@@ -63,6 +63,11 @@
  
   Python
 
+ ⚙️ Project Setup
+    ```bash
+     python .\Question1.py
+
+
  📌 Purpose
   This assignment will help Big Data Group 4 to develop and practice basic Python skills.
 
