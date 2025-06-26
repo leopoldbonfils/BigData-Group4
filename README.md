@@ -65,7 +65,8 @@
 
  ⚙️ Project Setup:
  
-      https://github.com/leopoldbonfils/BigData-Group4.git
+      git clone https://github.com/leopoldbonfils/BigData-Group4.git
+      cd BigData-Group4
 
 
  📌 Purpose
