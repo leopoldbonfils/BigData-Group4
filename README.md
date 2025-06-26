@@ -48,10 +48,15 @@
  👥 Team Members
  
  . Mutuyimana Evelyne 27701
+ 
  . Nsabimana Brice Simon 27451
+ 
  . Ingabire Nelly 27128
+ 
  . Mugisha Leopold 26636
+ 
  . Uwamwezi Denyse 27976
+ 
  . Kunda Tabitha 27684 
 
  🐍 Language
