@@ -21,7 +21,7 @@
 
   3. Enter your name when prompted.
 
-  4. Enter your year of birth (e.g., 2000).
+  4. Enter your year of birth (e.g: 2000).
 
   5. The script will display a message:
 
